@@ -1,0 +1,9 @@
+Staff book
+Staff journal
+Staff electronic
+Student book
+Student journal
+Student electronic
+Alumni book
+Alumni journal
+Alumni electronic

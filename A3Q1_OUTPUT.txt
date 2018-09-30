@@ -1,0 +1,18 @@
+Clearance Staff Resource book
+You may borrow this resource for an entire term and you may borrow an unlimited amount of copies.
+Clearance Staff Resource journal
+You can borrow this resource for two weeks and you may borrow an unlimited amount.
+Clearance Staff Resource electronic
+You may borrow this resource for an unlimited amount of time and an unlimited amount of copies.
+Clearance Student Resource book
+You can borrow this resource for two weeks and you may borrow an unlimited amount.
+Clearance Student Resource journal
+You can borrow this resource for two weeks and you may borrow an unlimited amount.
+Clearance Student Resource electronic
+You may borrow this resource for an unlimited amount of time and an unlimited amount of copies.
+Clearance Alumni Resource book
+You may borrow this resource for up to two weeks and you may borrow up to 20 copies.
+Clearance Alumni Resource journal
+You may not borrow this resource.
+Clearance Alumni Resource electronic
+You may not borrow this resource.
