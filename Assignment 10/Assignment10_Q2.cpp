@@ -20,7 +20,7 @@ int main()
 	cout << "51\t" << isPrime(51, 2) << endl
 		<< "91\t" << isPrime(91, 2) << endl
 		<< "103\t" << isPrime(103, 2) << endl
-		//additional prime
+		//additional primes
 		<< "2\t" << isPrime(2, 2) << endl
 		<< "3\t" << isPrime(3, 2) << endl
 		<< "5\t" << isPrime(5, 2) << endl
