@@ -4,6 +4,7 @@
 #include <fstream>
 #include <iomanip>
 
+//Joshua Fernandes
 using namespace std;
 
 const int MAX_NUM_OF_TASKS = 9;
@@ -110,7 +111,6 @@ ostream& operator<<(ostream & out, Task tasks [MAX_NUM_OF_TASKS])
 
 			if (tasks[i].isTooLong())
 				cout << " late";
-
 			if (i > 0 && tasks[i - 1].overlaps(tasks[i]))
 				numOfConflicts++;
 

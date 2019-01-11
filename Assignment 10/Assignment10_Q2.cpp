@@ -4,6 +4,8 @@
 #include <fstream>
 #include <iomanip>
 
+//Joshua Fernandes
+
 using namespace std;
 
 bool isPrime (int num, int factor)
